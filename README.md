@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
+![Built with](https://img.shields.io/badge/built%20with-Django%20%7C%20DRF%20%7C%20SQLite-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-Production%20Ready-success)
+![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)
+
 # Invoice Project (Preview)
 
 🚀 A secure, multi-tenant invoice management system built with Django, REST API, and Excel invoice generation.
