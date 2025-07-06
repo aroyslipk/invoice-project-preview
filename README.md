@@ -16,7 +16,7 @@
 - Beautiful dashboard UI
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Login-panel.png)
 ![Work Entry Form](screenshots/work-entry.png)
 
 ## 📬 Contact
